@@ -1,2 +1,2 @@
-# bussiness-name-generater
-busssiness name generater using javascript 
+# faulty calculater
+ <p>faulty calculater using javascript</p>
